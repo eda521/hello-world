@@ -1,0 +1,37 @@
+'''
+Rozvaha o objektu s informacemi o souboru
+
+1) informace o umístění
+	Fyzický nositel - který disk, flash, NAS, web ...
+	Kořen cesty - přiřaditelný / pevný disk: C nebo pN
+	Cesta na disku
+	Jméno souboru
+
+2) Čitelné atributy souboru
+	Jméno bez přípony
+	Přípona
+	velikost
+	Čas vzniku
+	Čas poslední editace
+	Tvůrce
+	...
+	
+3) Informace o obsahu souboru
+	tagy - volné
+	strukturované tagy - existující struktura tagů, file se hlásí
+	doba vzniku
+	doba referovaná
+	místo vzniku
+	místa referovaná
+	autor
+	rozměr pro uložení
+	rozměr pro studium
+	oborový tag (ze struktury)
+	antropocentrický tag (vzdálenost)
+	tag o míře detailu či obecnosti (ze struktury)
+	tag vzácnosti (ze struktury) - vlastní tvorba / znovuzískatelnost
+	tag kauzy (ze struktury)
+	tag národní / rasový
+	
+	
+'''
