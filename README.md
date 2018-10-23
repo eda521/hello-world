@@ -1,4 +1,5 @@
 # hello-world
 Testing purpose repo
-Github session on Monday afternoon
-Continued on October
+Github session on Monday afternoon<br>
+Continued on October<br>
+Another row
